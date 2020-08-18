@@ -1,3 +1,4 @@
+[AutoProxy 0.3.0]
 ||netflix
 ||netflix.com
 ||nflxso.net
