@@ -1,11 +1,11 @@
-[AutoProxy 0.3.0]
-||netflix
+JTVCQXV0b1Byb3h5JTIwMC4zLjAlNUQ=
+JTdDJTdDbmV0ZmxpeA==
 ||netflix.com
-||nflxso.net
-||nflxext.com
-||nflximg.com
-||nflximg.net
-||nflxvideo.net
-||fast.com
-||google.com
-||github.com
+JTdDJTdDbmV0ZmxpeC5jb20=
+JTdDJTdDbmZseGV4dC5jb20=
+JTdDJTdDbmZseGltZy5jb20=
+JTdDJTdDbmZseGltZy5uZXQ=
+JTdDJTdDbmZseHZpZGVvLm5ldA==
+JTdDJTdDZmFzdC5jb20=
+JTdDJTdDZ29vZ2xlLmNvbQ==
+JTdDJTdDZ2l0aHViLmNvbQ==
