@@ -1,12 +1,25 @@
-[AutoProxy0.2.9]
+[AutoProxy 0.2.9]
+! Checksum: mIShJtvB4UUaZ7ms+0fm4g
+! Expires: 6h
+! Title: GFWList4LL
+! GFWList with EVERYTHING included
+! Last Modified: 2020-08-16 16:30:02 GMT+8
+!
+! HomePage: https://github.com/Loukky/gfwlist-by-loukky
+! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+!
+! GFWList is unlikely to fully comprise the real
+! rules being deployed inside GFW system. We try
+! our best to keep the list up to date. Please
+! contact us regarding URL submission / removal,
+! or suggestion / enhancement at issue tracker:
+! https://github.com/Loukky/gfwlist-by-loukky/issues
 
-||netflix
+!---------403/451/520 & URL Redirects---------
+||angela-merkel.de
+||asianspiss.com
+||athenaeizou.com
 ||netflix.com
-||netflix.com
-||nflxext.com
-||nflximg.com
-||nflximg.net
-||nflxvideo.net
 ||fast.com
 ||google.com
 ||github.com
