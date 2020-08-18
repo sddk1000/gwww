@@ -1,11 +1,1 @@
-[AutoProxy0.2.9]
-||netflix
-||netflix.com
-||netflix.com
-||nflxext.com
-||nflximg.com
-||nflximg.net
-||nflxvideo.net
-||fast.com
-||google.com
-||github.com
+JTVCQXV0b1Byb3h5MC4yLjklNUQlMEElN0MlN0NuZXRmbGl4JTBBJTdDJTdDbmV0ZmxpeC5jb20lMEElN0MlN0NuZXRmbGl4LmNvbSUwQSU3QyU3Q25mbHhleHQuY29tJTBBJTdDJTdDbmZseGltZy5jb20lMEElN0MlN0NuZmx4aW1nLm5ldCUwQSU3QyU3Q25mbHh2aWRlby5uZXQlMEElN0MlN0NmYXN0LmNvbSUwQSU3QyU3Q2dvb2dsZS5jb20lMEElN0MlN0NnaXRodWIuY29t
