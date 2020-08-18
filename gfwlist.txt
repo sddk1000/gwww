@@ -1,4 +1,5 @@
 [AutoProxy0.2.9]
+
 ||netflix
 ||netflix.com
 ||netflix.com
